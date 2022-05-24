@@ -62,8 +62,11 @@ Then, we split the data into two sets, training and testing.
 
 Then we apply these four ML models:
 Logistic Regression Classifier
+
 Decision Tree Classifier
+
 Random Forest Classifier
+
 XGBoost Classifier
 
 # Evaluation
