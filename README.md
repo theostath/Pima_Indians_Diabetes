@@ -4,17 +4,17 @@ Kaggle problem: Predict the onset of diabetes based on diagnostic measures.
 # Create andactivate the virtual environment
 First, create an environment with conda where we will pre-install python 3.9:
 
-'''
+```
 conda create --name PimaIndianDiabetes python=3.9
-'''
+```
 
 Then activate the environment and change directory:
 
-'''
+```
 conda activate PimaIndianDiabetes
 
 cd anaconda3/envs/PimaIndianDiabetes
-'''
+```
 
 # Instal the prerequisites
 
@@ -25,9 +25,9 @@ pandas, numpy, matplotlib, seaborn, scikit-learn and xgboost.
 
 Then you can download main.py and run it in the terminal:
 
-'''
+```
 python main.py
-'''
+```
 
 # Dataset info
 
