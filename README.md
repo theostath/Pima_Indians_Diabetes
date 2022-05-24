@@ -72,3 +72,5 @@ XGBoost Classifier
 # Evaluation
 
 Finally, we plot the accuracy of each model.
+
+![accuracy](https://user-images.githubusercontent.com/24894934/170034817-df46567b-18be-4be4-90d2-bfd51ce4bff9.png)
