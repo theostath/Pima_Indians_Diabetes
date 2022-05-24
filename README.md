@@ -33,13 +33,21 @@ python main.py
 
 The dataset has many different variables:
 Pregnancies - Number of times pregnant
+
 Glucose - Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+
 Blood Pressure - Diastolic blood pressure
+
 SkinThickness - Triceps skin fold thickness
+
 Insulin - 2-Hour serum insulin
+
 BMI - Body Mass Index
+
 DiabetesPedigreeFunction - Diabetes pedigree function
+
 Age - Age
+
 Outcome - Whether or not the person is diabetic
 
 The variable 'Outcome' is the target and all the other variables are the predictors. 
