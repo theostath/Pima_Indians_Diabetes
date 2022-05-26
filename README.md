@@ -21,6 +21,10 @@ cd anaconda3/envs/PimaIndianDiabetes
 Use pip install to install the packages needed to run the code. These are the following:
 pandas, numpy, matplotlib, seaborn, scikit-learn and xgboost.
 
+# Download the dataset
+
+Download the dataset from Kaggle: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+
 # Run the code
 
 Then you can download main.py and run it in the terminal:
