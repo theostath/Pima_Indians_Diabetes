@@ -1,7 +1,7 @@
 # Pima_Indians_Diabetes
 Kaggle problem: Predict the onset of diabetes based on diagnostic measures.
 
-# Create andactivate the virtual environment
+# Create and activate the virtual environment
 First, create an environment with conda where we will pre-install python 3.9:
 
 ```
@@ -16,7 +16,7 @@ conda activate PimaIndianDiabetes
 cd anaconda3/envs/PimaIndianDiabetes
 ```
 
-# Instal the prerequisites
+# Install the prerequisites
 
 Use pip install to install the packages needed to run the code. These are the following:
 pandas, numpy, matplotlib, seaborn, scikit-learn and xgboost.
@@ -38,7 +38,7 @@ python main.py
 The dataset has many different variables:
 Pregnancies - Number of times pregnant
 
-Glucose - Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+Glucose - Plasma glucose concentration at 2 hours in an oral glucose tolerance test
 
 Blood Pressure - Diastolic blood pressure
 
@@ -59,8 +59,8 @@ Therefore, we use the predictors in four different ML models to find out the tar
 
 # ML models
 
-First, we standardize the variables to follow a normal distribution with a mean of 0 and standard deviation of 1.
-We do that by substracting the mean value and dividing with the standard deviation of each variable.
+First, we standardize the variables to have a mean of 0 and standard deviation of 1.
+We do that by subtracting the mean value and dividing by the standard deviation of each variable.
 
 Then, we split the data into two sets, training and testing.
 
